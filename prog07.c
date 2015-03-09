@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 //prog07
+=======
+>>>>>>> d1e60a5a2a8aacb25605c9472c5ff33e927828aa
 //Dan Cocking
 //dbcockin
 //Program to compare the sort times of bubble and insertion sorts in the worst case
